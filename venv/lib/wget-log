@@ -1,0 +1,6 @@
+--2022-06-16 13:17:25--  https://www.google.com/search?q=flower+image
+Resolving www.google.com (www.google.com)... 142.251.32.132, 2607:f8b0:4000:818::2004
+Connecting to www.google.com (www.google.com)|142.251.32.132|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2022-06-16 13:17:26 ERROR 403: Forbidden.
+
